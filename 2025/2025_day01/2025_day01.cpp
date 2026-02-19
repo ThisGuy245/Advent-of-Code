@@ -1,14 +1,13 @@
 // 2025_day01.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-
 /* Task at hand can be found below:
     https://adventofcode.com/2025/day/1
 */
 
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
 
 // Dial 0 - 99, starts at 50
 // attached document 
