@@ -28,7 +28,7 @@ int main()
     // Error handling
     if (!input.is_open())
     {
-        std::cerr << "Erreur: Impossible d'ouvrir le fichier!" << std::endl;
+        std::cerr << "Error: Impossible to open file!" << std::endl;
         return 1;
     }
 
